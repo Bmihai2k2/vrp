@@ -1,0 +1,12 @@
+Route 1:
+Cities: Baia Mare -> Satu Mare -> Zalau -> Cluj-Napoca
+Total Distance: 242
+Total Time: 241.5
+Fitness: 0.004140786749482402
+
+Route 2:
+Cities: Baia Mare -> Bistrita -> Targu Mures -> Sibiu
+Total Distance: 353
+Total Time: 324.75
+Fitness: 0.003079291762894534
+
